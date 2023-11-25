@@ -1,4 +1,4 @@
-# Welcome to my *ft_printf*
+# This is: *ft_printf*
 
 ### Summary
 The goal of this project is pretty straightforward. You will recode printf().  
