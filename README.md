@@ -1,4 +1,5 @@
-<h1>Project: `ft_printf`<h1>
+<h1>ft_printf<h1>
+
 Because ft_putnbr() and ft_putstr() aren’t enough
 
 ## Summary
