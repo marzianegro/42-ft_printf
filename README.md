@@ -1,5 +1,4 @@
-# Project: ft_printf 
-(because ft_putnbr() and ft_putstr() aren’t enough)
+# ft_printf project
 
 ### Summary
 The goal of this project is pretty straightforward. You will recode printf().
