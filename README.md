@@ -4,9 +4,9 @@
 This project is an implementation of the standard C library function `printf`. The goal is to recreate the basic functionality of the original `printf` while adding some custom features.
 
 ## Features
-###### Mandatory
+##### Mandatory
 - **Format Specifiers**: Supports a variety of format specifiers, including `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, and `%X`.
-###### Bonus
+##### Bonus
 - **Width and Precision**: Allows specifying minimum width and precision for output.
 - **Flags**: Supports various flags such as `0`, `-`, `+`, `#`, and space.
 - **Modifiers**: Handles length modifiers like `hh`, `h`, `l`, `ll`, and `L`.
