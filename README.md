@@ -1,12 +1,12 @@
 # *ft_printf*
 
 ## Description
-This project is an implementation of the standard C library function `printf`. The (mandatory) goal is to recreate the basic functionality of the original `printf` while adding (in the bonus part) some custom features.
+This project is an implementation of the standard C library function `printf`. The goal is to recreate the basic functionality of the original `printf` while adding some custom features.
 
 ## Features
-### Mandatory
+###### Mandatory
 - **Format Specifiers**: Supports a variety of format specifiers, including `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, and `%X`.
-### Bonus
+###### Bonus
 - **Width and Precision**: Allows specifying minimum width and precision for output.
 - **Flags**: Supports various flags such as `0`, `-`, `+`, `#`, and space.
 - **Modifiers**: Handles length modifiers like `hh`, `h`, `l`, `ll`, and `L`.
@@ -52,7 +52,8 @@ The project is designed to be compatible with the 42 environment, so it's recomm
 ```c
 #include "ft_printf.h"
 
-int main() {
+int main()
+{
     ft_printf("This is a simple example: %d\n", 42);
-    return 0;
+    return (0);
 }
